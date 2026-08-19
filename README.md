@@ -23,3 +23,11 @@ Este proyecto cumple con todos los requisitos establecidos para la Opción 1 del
 
 # IMÁGENES
 
+<img width="886" height="529" alt="image" src="https://github.com/user-attachments/assets/5e8ea49f-1abd-495c-8a69-51c49d2bcbb8" />
+<img width="886" height="575" alt="image" src="https://github.com/user-attachments/assets/fb14d0ad-202b-4690-90ed-ce5a39b426ed" />
+<img width="1531" height="1027" alt="image" src="https://github.com/user-attachments/assets/1f44cee6-3598-4d7f-94d5-c4ce3675067e" />
+<img width="886" height="592" alt="image" src="https://github.com/user-attachments/assets/7fedb4f6-ea7b-4fd6-bd1d-9fa28e7dc275" />
+
+
+
+
